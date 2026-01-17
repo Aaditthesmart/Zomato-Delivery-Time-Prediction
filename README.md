@@ -121,7 +121,7 @@ The gap between training and validation error is moderate and expected due to no
 - Pandas
 - Matplotlib
 - Seaborn
-- scikit-learn.
+- scikit-learn
 
 ---
 
