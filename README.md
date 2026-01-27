@@ -1,4 +1,4 @@
-# 🍽️ Zomato Delivery Time Prediction
+# 🍽️ Zomato Delivery Time Prediction using Random Forest Regression
 
 ## 📌 Project Overview
 This project focuses on predicting **food delivery time (in minutes)** using machine learning techniques.  
